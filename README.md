@@ -1,11 +1,19 @@
-🚀 Hi, I’m **Debashish**!  
-🔍 A Data Analyst & Student of Data Architecture with a passion for turning complex information into clear insights that guide decision-making.  
+Hi, I’m Debashish, a data analyst and data engineering student focused on turning complex data into actionable insights. I specialize in leveraging analytics to drive strategic decisions and streamline processes.
 
-💡 **Top Skills:**  
-🐍 Python for Data Science  
-📊 Data Visualization with Pandas, Plotly, Streamlit & more  
-📈 Power BI Expert  
-💼 Microsoft Office Suite  
-🎨 Engaging PowerPoint Presentations  
+Core skills:
 
-👇 **Check out my projects below to see these skills in action!**
+Python for data analysis and automation 🐍
+Pandas, Plotly, Streamlit for data visualization 📊
+Microsoft Power BI for business intelligence 📈
+Proficient in Microsoft Office for efficient reporting and presentations 🖥️
+
+Experience:
+
+Data Analyst intern at RVG retails.co
+Freelance: Developed impactful PowerPoint presentations tailored to client needs.
+Member of JVM Technical Assistance and Project Team, contributing to key technical initiatives.
+5-time State Level MUN Conference Winner, recognized for public speaking and strategic thinking.
+
+
+Let’s connect and explore how we can collaborate on data-driven projects! 🌍Hi, I’m Debashish, a data analyst and data engineering student focused on turning complex data into actionable insights. I specialize in leveraging analytics to drive strategic decisions and streamline processes. Core skills: Python for data analysis and automation 🐍 Pandas, Plotly, Streamlit for data visualization 📊 Microsoft Power BI for business intelligence 📈 Proficient in Microsoft Office for efficient reporting and presentations 🖥️ Experience: Data Analyst intern at RVG retails.co Freelance: Developed impactful PowerPoint presentations tailored to client needs. Member of JVM Technical Assistance and Project Team, contributing to key technical initiatives. 5-time State Level MUN Conference Winner, recognized for public speaking and strategic thinking. Let’s connect and explore how we can collaborate on data-driven projects! 🌍
+Top skills
